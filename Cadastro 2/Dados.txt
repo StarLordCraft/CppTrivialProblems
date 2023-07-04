@@ -1,0 +1,8 @@
+=======================================
+                              NOVO USUÁRIO:
+=======================================
+Nome..............: Rafael Felipe Viana Alves
+Cidade............: Montes Claros
+Idade...............: 18
+Data de Nascimento: 11/02/2004
+

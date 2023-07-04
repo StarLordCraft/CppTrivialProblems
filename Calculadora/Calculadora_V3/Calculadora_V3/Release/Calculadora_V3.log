@@ -1,0 +1,11 @@
+﻿  Calculadora_V3.cpp
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(70,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(87,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(98,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(488,23): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando código
+  480 of 490 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Calculadora_V3.vcxproj -> D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Release\Calculadora_V3.exe

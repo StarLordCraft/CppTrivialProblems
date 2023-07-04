@@ -1,0 +1,10 @@
+﻿  Calculadora_V3.cpp
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(70,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(87,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(98,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(488,23): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(102): warning C4715: 'get_value': nem todos os caminhos de controle retornam um valor
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(257): warning C4715: 'primary': nem todos os caminhos de controle retornam um valor
+D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Calculadora_V3\Calculadora_V3.cpp(195): warning C4715: 'Token_stream::get': nem todos os caminhos de controle retornam um valor
+  LINK : D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Debug\Calculadora_V3.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  Calculadora_V3.vcxproj -> D:\Programando\C++\1.Exercicios\Calculadora\Calculadora_V3\Debug\Calculadora_V3.exe
